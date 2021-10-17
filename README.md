@@ -1,7 +1,9 @@
 # WorkDayScheduler
 
 This application allows a user to add and save tasks to a planner for his or her workday. 
+
 The background color of the task description will change depending on the current hour:
+
 grey background color for past hours, red background color for current hour, and green background color for future hours. 
 
 When the planner application is opened, 
@@ -21,3 +23,11 @@ then the text for that event is saved in local storage.
 
 When the page is refreshed,
 then the saved events persist.
+
+Link to deployed application:
+
+https://sean-elliott-97.github.io/WorkDayScheduler/
+
+Screenshot of deployed application:
+
+![AssignmentScreenshot](https://user-images.githubusercontent.com/89947920/137645954-6ef5a3b5-9696-42c2-ad5d-61757f292bc5.png)
