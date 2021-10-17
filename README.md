@@ -1,6 +1,7 @@
 # WorkDayScheduler
 
-This application allows users to add and save tasks to a planner for his or her workday. The background color of the task description will change depending on the current hour:
+This application allows a user to add and save tasks to a planner for his or her workday. 
+The background color of the task description will change depending on the current hour:
 grey background color for past hours, red background color for current hour, and green background color for future hours. 
 
 When the planner application is opened, 
